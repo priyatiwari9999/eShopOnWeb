@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 0bb9b234-450c-41d3-bfc5-f71f70b76700
-  WEBAPP-NAME: Priya-DevOps-App
+  WEBAPP-NAME: PriyaDevOpsApp
 
 
 jobs:
